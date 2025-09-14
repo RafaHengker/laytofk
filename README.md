@@ -5,19 +5,6 @@ The project was developed using **Laravel** (PHP framework), with a MySQL databa
 
 ---
 
-## 🚀 Features
-
-- **Authentication & Authorization** (Register, Login, Password Reset).
-- **Salon Management** (create, update, delete, view salons).
-- **Services Management** (add/edit services, categories, prices, and timings).
-- **Staff Management** (manage staff members and their profiles).
-- **Image Uploads** (salon & staff images with storage integration).
-- **Booking System** (create and manage customer bookings).
-- **Reviews & Ratings** (customers can review services and salons).
-- **Payment Gateway Integration** via **Upayments**.
-- **Responsive Blade Views** for basic admin pages (HTML, CSS).
-
----
 
 ## 🛠️ Tech Stack
 
@@ -32,20 +19,18 @@ The project was developed using **Laravel** (PHP framework), with a MySQL databa
 ## 📱 Usage
 
 The APIs are designed for integration with the **Lay6ofk Mobile Application**.  
-They provide endpoints for:
 
-- User registration & login  
-- Salon & staff management  
-- Booking flow  
-- Payments processing  
+- Ads post
+- packages subscriptions
+- login - register
+- wallet - charge wallet
+- payment - upayments 'payment getaway' 
 
 ---
 
 ## 🌐 Deployment
 
-- Hosting provider: **Hostinger**  
 - Domain: [https://lay6ofk.com](https://lay6ofk.com)  
-- APIs served under `/api/*` routes.  
 
 ---
 
@@ -57,6 +42,6 @@ Integrated with **Upayments** to handle secure transactions for salon bookings a
 
 ## 👨‍💻 Author
 
-Developed and maintained by **[Your Name]**.  
-Built with ❤️ using Laravel, PHP, MySQL, Blade, HTML, and CSS.
+Developed and maintained by **[Abdo Yasser]**.  
+Built with ❤️ using Laravel, PHP, MySQL, Blade.
 
